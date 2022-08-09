@@ -9,5 +9,10 @@ public class Test1 {
 	{
 		System.out.println("in test1");
 	}
+	
+	public void m2()
+	{
+		
+	}
 
 }
